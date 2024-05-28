@@ -1,8 +1,8 @@
 # $ echo hello!
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://gitpets.fly.dev/api?username=cassiusfive&petname=Kristofferson&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://gitpets.fly.dev/api?username=cassiusfive&petname=Kristofferson&theme=light">
-  <img alt="Shows a gitpet" src="https://gitpets.fly.dev/api?username=cassiusfive&petname=Kristofferson" align="left" width="200px" padding-top="100px">
+  <source media="(prefers-color-scheme: dark)" srcset="https://gitpets.fly.dev/api?username=cassiusfive&petname=Kristofferson&theme=dark&species=fox">
+  <source media="(prefers-color-scheme: light)" srcset="https://gitpets.fly.dev/api?username=cassiusfive&petname=Kristofferson&theme=light&species=fox">
+  <img alt="Shows a gitpet" src="https://gitpets.fly.dev/api?username=cassiusfive&petname=Kristofferson&species=fox" align="left" width="200px" padding-top="100px">
 </picture>
 
 
