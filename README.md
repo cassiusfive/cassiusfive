@@ -1,9 +1,9 @@
 # $ echo hello!
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://gitpets.fly.dev/api?username=cassiusfive&petname=pedro&theme=dark&species=wolf?w=a">
-  <source media="(prefers-color-scheme: light)" srcset="https://gitpets.fly.dev/api?username=cassiusfive&petname=pedro&theme=light&species=wolf?w=a">
-  <img alt="Shows a gitpet" src="[https://gitpets.fly.dev/api?username=cassiusfive&petname=Kristofferson](https://gitpets.fly.dev/api?username=cassiusfive&petname=pedro&theme=dark&species=wolf?w=a)" width="200px">
+  <source media="(prefers-color-scheme: dark)" srcset="https://gitpets.fly.dev/api?username=cassiusfive&petname=pedro&theme=dark&species=wolf">
+  <source media="(prefers-color-scheme: light)" srcset="https://gitpets.fly.dev/api?username=cassiusfive&petname=pedro&theme=light&species=wolf">
+  <img alt="Shows a gitpet" src="[https://gitpets.fly.dev/api?username=cassiusfive&petname=Kristofferson](https://gitpets.fly.dev/api?username=cassiusfive&petname=pedro&theme=dark&species=wolf)" width="200px">
 </picture>
 
 
