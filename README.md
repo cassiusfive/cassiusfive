@@ -1,10 +1,4 @@
 # $ echo hello!
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://gitpets.fly.dev/api?username=cassiusfive&petname=Kristofferson&theme=dark&species=fox">
-  <source media="(prefers-color-scheme: light)" srcset="https://gitpets.fly.dev/api?username=cassiusfive&petname=Kristofferson&theme=light&species=fox">
-  <img alt="Shows a gitpet" src="https://gitpets.fly.dev/api?username=cassiusfive&petname=Kristofferson&species=fox" align="left" width="200px" padding-top="100px">
-</picture>
-
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
